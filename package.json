@@ -1,0 +1,13 @@
+{
+    "name": "user-service",
+    "version": "0.0.1",
+    "description": "Base component for service involve users.",
+    "keywords": ["base"],
+    "repository": "https://github.com/minhnq013/BaseUserService",
+    "author": "Minh Nguyen <minhnq013@gmail.com>",
+    "dependencies": {
+        "express"           : "*",
+        "body-parser"       : "*",
+        "cookie-parser"     : "*"
+    }
+}
